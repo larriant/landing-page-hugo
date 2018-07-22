@@ -1,10 +1,10 @@
-baseurl = "http://yourdomain.com"
-languageCode = "en-us"
-title = "WidgetCo Inc"
+baseurl = "http://usitarian.org"
+languageCode = "en-gb"
+title = "Usitarian"
 canonifyUrls = "true"
 
 [params]
-    description = "The best widgets in the world!"
+    description = "Saving the planet with voluntary simplicity!"
     custom_css = ["css/local.css"]
 
 [[params.social]]

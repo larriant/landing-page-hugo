@@ -1,7 +1,7 @@
 # Takeoff
 
 [Hugo](http://gohugo.io) theme based on
-[landing-page-hugo theme](https://github.com/crakjie/landing-page-hugo)
+[landing-page-hugo](https://github.com/crakjie/landing-page-hugo)
 
 # How to use
 

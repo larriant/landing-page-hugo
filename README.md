@@ -1,9 +1,13 @@
-# Landing Page Theme for Hugo
+# Takeoff
 
-[Hugo](http://gohugo.io) theme based on the
-[landing-page theme for Jekyll](https://github.com/swcool/landing-page-theme)
+[Hugo](http://gohugo.io) theme based on
+[landing-page-hugo theme](https://github.com/crakjie/landing-page-hugo)
 
 # How to use
+
+1. Follow https://gohugo.io/getting-started/quick-start/ to install Hugo and create a new site.
+2. Clone this repo into /themes.
+
 
 ## Background Images
 
